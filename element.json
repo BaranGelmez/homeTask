@@ -1,0 +1,11 @@
+{
+  "Create User":{
+    "name": "morpheus",
+    "job": "leader"
+  },
+
+  "Register User":{
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+  }
+}
